@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishan Phuyal </h1>
-<h3 align="center">A passionate backend developer from Nepal</h3>
+<h3 align="center">A passionate Computer Science Student from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanphuyal&label=Profile%20views&color=0e75b6&style=flat" alt="nishanphuyal" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **EduConnect**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **phuyalnishan199@gmail.com**
 
